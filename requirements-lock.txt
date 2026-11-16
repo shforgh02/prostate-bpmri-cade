@@ -1,0 +1,22 @@
+# Exact package versions of the local environment that ran the analysis scripts (Python 3.12.9).
+# The GPU steps (SegResNet training, nnU-Net, ProViCNet) ran in Modal containers defined in the Modal scripts.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.8.0
+statsmodels==0.14.6
+matplotlib==3.10.9
+seaborn==0.13.2
+tqdm==4.67.1
+openpyxl==3.1.5
+tabulate==0.10.0
+SimpleITK==2.5.0
+nibabel==5.3.2
+pydicom==3.0.2
+trimesh==4.11.5
+picai_prep==2.1.13
+report-guided-annotation==0.3.4
+torch==2.6.0
+monai==1.6.1
+modal==1.4.1
+huggingface_hub==1.8.0

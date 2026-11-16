@@ -1,0 +1,19 @@
+{
+  "title": "Prostate MRI deep learning candidates and tracked biopsy cores: analysis code",
+  "upload_type": "software",
+  "description": "Code for a retrospective study that asks what prostate MRI deep learning models add to the biopsy targets that radiologists have already drawn. Model output is compared with the recorded positions and histologic results of MRI-US fusion biopsy cores, at radiologist targets and away from them. No data are included; all data sets are public.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "creators": [
+    {"name": "Forghani, Shayan", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Mahdavi Sabet, Fatemeh", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Shahsavand, Amirhossein", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Forghani, Arman", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Akbarzadeh, Saba", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Aghabeigi, Sohrab", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Mirhosseini, Amir Hossein", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Janbabai, Ghasem", "affiliation": "Tehran University of Medical Sciences"},
+    {"name": "Zeinalkhani, Fahimeh", "affiliation": "Tehran University of Medical Sciences"}
+  ],
+  "keywords": ["prostate cancer", "MRI", "deep learning", "targeted biopsy", "fusion biopsy"]
+}

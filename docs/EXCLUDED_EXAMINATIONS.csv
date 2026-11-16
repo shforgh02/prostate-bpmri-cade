@@ -1,0 +1,44 @@
+Examination,Rule,Reason,Diffusion series description,b value (sec/mm²)
+Prostate-MRI-US-Biopsy-0027_06733,Header (b value),b value below 1000 sec/mm²,ep2d-advdiff-3Scan-4bvalspairCALCBVAL,0
+Prostate-MRI-US-Biopsy-0093_03572,Header (b value),b value below 1000 sec/mm²,CALCBVAL,50
+Prostate-MRI-US-Biopsy-0098_50412,Header (b value),b value below 1000 sec/mm²,ep2d-advdiff-3Scan-4bvalspairCALCBVAL,0
+Prostate-MRI-US-Biopsy-0166_58346,Header (b value),No b value in the header,CALCBVAL,
+Prostate-MRI-US-Biopsy-0202_96767,Header (b value),b value below 1000 sec/mm²,ep2d-advdiff-3Scan-4bvalspairCALCBVAL,0
+Prostate-MRI-US-Biopsy-0245_52179,Header (b value),b value below 1000 sec/mm²,ep2d-advdiff-3Scan-4bvalspairCALCBVAL,0
+Prostate-MRI-US-Biopsy-0289_92261,Header (b value),No b value in the header,CALCBVAL,
+Prostate-MRI-US-Biopsy-0360_47372,Header (b value),b value below 1000 sec/mm²,ep2d-advdiff-3Scan-4bvalspairCALCBVAL,0
+Prostate-MRI-US-Biopsy-0363_67034,Header (b value),No b value in the header,DWI 504001400,
+Prostate-MRI-US-Biopsy-0604_49849,Header (b value),b value below 1000 sec/mm²,ep2dadvdiff3Scan4bvalspairCALCBVAL,0
+Prostate-MRI-US-Biopsy-0656_18847,Header (b value),b value below 1000 sec/mm²,CALCBVAL,0
+Prostate-MRI-US-Biopsy-0996_25443,Header (b value),No b value in the header,CALCBVAL,
+Prostate-MRI-US-Biopsy-1007_39260,Header (b value),No b value in the header,CALCBVAL,
+Prostate-MRI-US-Biopsy-1017_44227,Header (b value),No b value in the header,CALCBVAL,
+Prostate-MRI-US-Biopsy-0036_71632,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0061_82845,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0071_47375,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0086_09513,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0117_96507,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0200_60031,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0224_82067,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0286_99569,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0303_21741,Image content,"Zero ADC or high-b-value signal in at least 20% of gland voxels (gland coverage, 59.4%)",,
+Prostate-MRI-US-Biopsy-0307_93922,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0336_63145,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0346_10178,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0365_71331,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0381_48173,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0390_83025,Image content,"Zero ADC or high-b-value signal in at least 20% of gland voxels (gland coverage, 66.6%)",,
+Prostate-MRI-US-Biopsy-0504_19111,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0524_78556,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0572_53301,Image content,ADC constant in the gland,,
+Prostate-MRI-US-Biopsy-0591_24132,Image content,ADC constant in the gland,,
+Prostate-MRI-US-Biopsy-0600_34703,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0608_06013,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0610_80456,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0635_71392,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0657_16133,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0760_11494,Image content,High-b-value image constant or saturated in the gland,,
+Prostate-MRI-US-Biopsy-0852_66871,Image content,"Zero ADC or high-b-value signal in at least 20% of gland voxels (gland coverage, 39.3%)",,
+Prostate-MRI-US-Biopsy-0956_70409,Image content,"Zero ADC or high-b-value signal in at least 20% of gland voxels (gland coverage, 26.8%)",,
+Prostate-MRI-US-Biopsy-0983_21681,Image content,"Zero ADC or high-b-value signal in at least 20% of gland voxels (gland coverage, 77.2%)",,
+Prostate-MRI-US-Biopsy-1130_68841,Image content,"Zero ADC or high-b-value signal in at least 20% of gland voxels (gland coverage, 52.3%)",,

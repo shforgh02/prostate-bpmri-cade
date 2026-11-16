@@ -1,0 +1,42 @@
+# Generated results (not published yet)
+outputs/
+results/
+sources/
+figures/
+tables/
+manuscript/
+
+# Data and model files
+*.nii
+*.nii.gz
+*.mha
+*.dcm
+*.npz
+*.npy
+*.pkl
+*.pth
+*.pt
+*.ckpt
+*.stl
+*.xlsx
+*.zip
+
+# Documents
+*.docx
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Local settings and credentials
+.env
+.modal.toml
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Prostate MRI deep learning candidates and tracked biopsy cores: analysis code"
+version: 1.0.0
+date-released: 2026-11-16
+license: MIT
+repository-code: "https://github.com/shforgh02/prostate-bpmri-cade"
+authors:
+  - given-names: Shayan
+    family-names: Forghani
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Fatemeh
+    family-names: Mahdavi Sabet
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Amirhossein
+    family-names: Shahsavand
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Arman
+    family-names: Forghani
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Saba
+    family-names: Akbarzadeh
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Sohrab
+    family-names: Aghabeigi
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Amir Hossein
+    family-names: Mirhosseini
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Ghasem
+    family-names: Janbabai
+    affiliation: "Tehran University of Medical Sciences"
+  - given-names: Fahimeh
+    family-names: Zeinalkhani
+    affiliation: "Tehran University of Medical Sciences"
