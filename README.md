@@ -81,7 +81,7 @@ Please follow the license and citation terms of each data set.
 │   ├── R1, R1b                PROSTATEx patients matched to their PI-CAI copies (R1b: with the half-voxel origin conversion)
 │   ├── R2–R5                  replication: inputs, ProViCNet on Modal, candidates, agreement analysis
 │   ├── D1–D3, D7, D9          figures and tables
-│   └── extended/              further analyses (X0–X9)
+│   └── extended/              further analyses (X0–X11)
 ├── requirements.txt           minimum versions
 ├── requirements-lock.txt      exact versions used for the analyses (Python 3.12.9)
 ├── CITATION.cff
@@ -186,7 +186,7 @@ python analysis/R5_prostatex_agreement.py           # agreement analysis in PROS
 
 **7. Further analyses, figures, and tables**
 
-The header of each remaining script (`B8`, `C2`, `C3`, `E1`, `R1`, `extended/X0`–`X9`, `D1`–`D9`) states its inputs and the command to run it. `D2_flow_figure.py` reads `outputs/FLOW_NUMBERS.txt`, a short text file of cohort counts that is assembled from the logs of the steps above.
+The header of each remaining script (`B8`, `C2`, `C3`, `E1`, `R1`, `extended/X0`–`X11`, `D1`–`D9`) states its inputs and the command to run it. `D2_flow_figure.py` reads `outputs/FLOW_NUMBERS.txt`, a short text file of cohort counts that is assembled from the logs of the steps above.
 
 ## Notes
 
